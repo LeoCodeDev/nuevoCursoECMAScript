@@ -11,5 +11,6 @@
     "ECMAScript"
   ],
   "author": "Leopoldo Martinez",
-  "license": "ISC"
+  "license": "ISC",
+  "type":"module"
 }
