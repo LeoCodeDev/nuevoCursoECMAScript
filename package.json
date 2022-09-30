@@ -1,0 +1,15 @@
+{
+  "name": "nuevocursoecmascript",
+  "version": "1.0.0",
+  "description": "Curso de ECMAScript: Historia y Versiones de JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JavaScript",
+    "ECMAScript"
+  ],
+  "author": "Leopoldo Martinez",
+  "license": "ISC"
+}
