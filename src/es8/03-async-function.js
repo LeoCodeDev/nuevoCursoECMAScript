@@ -1,7 +1,7 @@
 const fxAsync = () => {
     return new Promise((resolve, reject)=>{
         (true)
-        ? setTimeout(() => resolve('Async!!'), 2000)
+        ? setTimeout(() => resolve('Async!!'), 20000)
         : reject(new Error('Error!'));
     })
 }
